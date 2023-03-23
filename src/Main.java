@@ -1,5 +1,4 @@
 import java.util.Random;
-
 public class Main {
     private static final Employee[] EMPLOYEES = new Employee[10];
 
