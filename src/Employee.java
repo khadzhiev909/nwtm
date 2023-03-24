@@ -35,7 +35,6 @@ public class Employee {
     public void setDeportamentId(int deportamentId) {
         this.deportamentId = deportamentId;
     }
-
     public Employee(int deportamentId, String fullName, int salary) {
         this.deportamentId = deportamentId;
         this.fullName = fullName;
